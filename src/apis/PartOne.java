@@ -43,10 +43,8 @@ public class PartOne {
                 return carResults;
 
             } else {
-                
                 return null;
             }
-
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (ProtocolException p) {
@@ -56,10 +54,7 @@ public class PartOne {
         } 
         
         return null;
-
     }
-
-   
     
     public static void main(String args[]) {
 		
@@ -93,5 +88,4 @@ public class PartOne {
 			}
 		}
     }
-
 }
