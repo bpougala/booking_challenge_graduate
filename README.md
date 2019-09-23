@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # booking_challenge Biko Pougala 
 Coding challenge for the Software Engineer Internship Programme Application
 
