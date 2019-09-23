@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # booking_challenge Biko Pougala 
 Coding challenge for the Software Engineer Internship Programme Application
 
@@ -40,3 +41,7 @@ Ex:
 ```
 http://localhost:8080/partOne?pickup=51.470020,-0.454296&dropoff=51.501366,-0.141890&numPassengers=4
 ```
+=======
+# booking_challenge
+Coding challenge for the Software Engineer Internship Programme Application
+>>>>>>> 622bb17e5a9369a228a5644b70236ad74f929c19
