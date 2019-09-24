@@ -11,19 +11,19 @@ You can either run the two JAR files at the command line or double-click them if
 ### Console application to print the search results for Dave's Taxis
 
 ```
-java -jar PartOneExec.jar <arg1> <arg2> <arg3>
+java -jar PartOne.jar <arg1> <arg2> <arg3>
 ``` 
 where `arg1` is the LatLng for the pickup location, `arg2` is the LatLng for the drop-off location and `arg3` is the number 
 of passengers. Set it to `4` or less to turn off filter by car type. Any integer between 1 and 16 will do. 
 Ex:
 ```
-java -jar PartOneExec.jar 51.470020,-0.454296 51.501366,-0.141890 4
+java -jar PartOne.jar 51.470020,-0.454296 51.501366,-0.141890 4
 
 ```
 ### Console application to print the search results for all Taxi companies
 
 ```
-java -jar PartOneExtensionExec.jar <arg1> <arg2> <arg3>
+java -jar PartOneExtension.jar <arg1> <arg2> <arg3>
 ```
 where `arg1`, `arg2` and `arg3` are defined as previously. 
 
