@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class PartOneExtension {
+public class PartOneExtension extends PartOne {
 
 	String pickup;
 	String dropoff;
@@ -15,6 +15,7 @@ public class PartOneExtension {
 	// fare for each car type
 
 	public PartOneExtension(String pickup, String dropoff) {
+		super(pickup, dropoff);
 		this.pickup = pickup;
 		this.dropoff = dropoff;
 	}

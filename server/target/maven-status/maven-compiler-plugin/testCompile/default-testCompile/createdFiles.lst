@@ -1,2 +1,4 @@
+apis/OutputParserTest.class
 apis/booking_challenge/BookingChallengeApplicationTests.class
-apis/booking_challenge/OutputParserTest.class
+apis/PartOneExtensionTest.class
+apis/PartOneTest.class
